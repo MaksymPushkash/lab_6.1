@@ -1,0 +1,7 @@
+﻿  UnitTest1.cpp
+C:\Users\admin\Desktop\lab_6.1\UnitTest\lab_06.1\lab_06.1\lab_06.1.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\admin\Desktop\lab_6.1\UnitTest\lab_06.1\UnitTest1\UnitTest1.cpp(44,44): error C1075: '{': no matching token found
+  (compiling source file '/UnitTest1.cpp')
+  
